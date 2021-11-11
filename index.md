@@ -1,4 +1,4 @@
-[Blog](/blog) []() []() []()
+[Blog](/blog) [View on Github!](https://github.com/JaydenDev/jaydendev.github.io)
 # Welcome
 To My Website
 # Hosted with GH-Pages (Github Pages)
