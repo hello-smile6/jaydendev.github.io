@@ -12,3 +12,5 @@ I chose to use Markdown because it can do everything HTML can do, but cleaner, b
 ```
 alert("Hello, World!")
 ```
+# Other Stuff
+[Blog](/blog)
