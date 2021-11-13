@@ -12,4 +12,3 @@ Using MarkDown instead of HTML, easier and cleaner code.
 ```
 alert("Hello, World!")
 ```
-![](./inj.svg)
